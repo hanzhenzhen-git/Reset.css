@@ -1,5 +1,5 @@
 {
-  "name": "reset.css",
+  "name": "hzz_reset.css",
   "version": "1.0.0",
   "description": "将写html代码时，用到的一些常用的需要去除自带样式的元素，进行统一格式化。",
   "scripts": {
@@ -14,5 +14,8 @@
   "bugs": {
     "url": "https://github.com/hanzhenzhen-git/HZZReset.css/issues"
   },
-  "homepage": "https://github.com/hanzhenzhen-git/HZZReset.css#readme"
+  "homepage": "https://github.com/hanzhenzhen-git/HZZReset.css#readme",
+  "keywords": [
+    "reset.css"
+  ]
 }
