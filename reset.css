@@ -11,9 +11,15 @@ a {
   color: #333;
 }
 
+a:hover {
+  color: #333;
+  text-decoration: underline;
+}
+
 /* img的vertical-align重置 */
 img {
   vertical-align: top;
+  border: none;
 }
 
 /* ul, ol, li重置 */
@@ -24,4 +30,14 @@ ul, ol, li {
 /* 对斜体元素重置 */
 i, em {
   font-style: normal;
+}
+
+input, textarea, button, select, a {
+  outline: none;
+  border: none;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
 }
