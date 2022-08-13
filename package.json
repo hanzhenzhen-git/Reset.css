@@ -1,7 +1,8 @@
 {
   "name": "hzz_reset.css",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "将写html代码时，用到的一些常用的需要去除自带样式的元素，进行统一格式化。",
+  "main": "reset.css",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/hanzhenzhen-git/HZZReset.css.git"
